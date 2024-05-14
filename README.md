@@ -2,7 +2,7 @@
 
 Overview: 
 
-Welcome to Note Taker, an application designed to help small business owners and anyone else organize their thoughts and tasks by writing and saving notes. This application utilizes an Express.js backend and saves and retrieves note data from a JSON file.
+Welcome to Note Flows, an application designed to help small business owners and anyone else organize their thoughts and tasks by writing and saving notes. This application utilizes an Express.js backend and saves and retrieves note data from a JSON file.
 
 Installation Instructions:
 Using npm install, install all needed utilities.
@@ -31,3 +31,4 @@ Confirm the deletion when prompted, and the note will be permanently removed fro
 
 By following these usage instructions, you can effectively utilize the Note Taker app to add, view, and delete notes, helping you stay organized and productive in your daily tasks and endeavors.
 
+Happy note-taking! 📝
